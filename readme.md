@@ -7,10 +7,10 @@ Build an app to find out the best Tasty Treats in town!!
 * Node.js  
 * Express  
 * Mongo DB  
-*
+* Pug templating
 
 ## Problems with npm
-Install [Node Version Manager] (https://github.com/creationix/nvm/blob/master/README.md#install-script)
+Install [Node Version Manager](https://github.com/creationix/nvm/blob/master/README.md#install-script)
 Just run curl script and seems to fix permission errors
  
 ## What is this?
