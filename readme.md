@@ -4,10 +4,11 @@
 Build an app to find out the best Tasty Treats in town!!  
 
 ### Tools:
-* Node.js  
+* Node.js  + many add on such as passport
 * Express  
 * Mongo DB  
 * Pug templating
+* Mailtrap for email testing
 
 ## Problems with npm
 Install [Node Version Manager](https://github.com/creationix/nvm/blob/master/README.md#install-script)
