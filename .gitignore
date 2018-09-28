@@ -1,13 +1,7 @@
-# OS X
-.DS_Store*
-Icon?
-._*
-
-*.env
 node_modules/
-*.log
-*.gz
-*.zip
 .DS_Store
+*.log
 .idea
-notes.md
+haters/
+variables.env
+variables.env.now
