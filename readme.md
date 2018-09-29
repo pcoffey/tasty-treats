@@ -17,11 +17,8 @@ Just run curl script and seems to fix permission errors
  
 ## Hosting
 * [Now](https://tasty-treats-lrccmvgnan.now.sh/)
-* 
+* [Digital Ocean](http://178.128.125.107/) - Use forever to keep App up and running and stop it from baing down
 
-## What is this?
-
-Just you wait folks!
 
 ## Sample Data
 
