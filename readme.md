@@ -6,14 +6,19 @@ Build an app to find out the best Tasty Treats in town!!
 ### Tools:
 * Node.js  + many add on such as passport
 * Express  
-* Mongo DB  
+* Mongo DB  using [mlab](https://mlab.com)
 * Pug templating
-* Mailtrap for email testing
+* [Mailtrap](https://mailtrap.io) for email testing
+* [Postmarkapp](https://postmarkapp.com) for transactional mail
 
 ## Problems with npm
 Install [Node Version Manager](https://github.com/creationix/nvm/blob/master/README.md#install-script)
 Just run curl script and seems to fix permission errors
  
+## Hosting
+* [Now](https://tasty-treats-lrccmvgnan.now.sh/)
+* 
+
 ## What is this?
 
 Just you wait folks!
